@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "name": "Getränke / Drinks",
+      "items": [
+        {"name": "Berliner Pilsner", "price": "€3.50", "description": "Local Berlin beer"},
+        {"name": "Weinschorle", "price": "€4.00", "description": "Wine spritzer"},
+        {"name": "Aperol Spritz", "price": "€6.50", "description": "Classic Italian aperitif"},
+        {"name": "Espresso", "price": "€2.50", "description": "Strong Italian coffee"},
+        {"name": "Cappuccino", "price": "€3.50", "description": "Creamy coffee with milk foam"},
+        {"name": "Latte Macchiato", "price": "€3.80", "description": "Layered milk coffee"}
+      ]
+    },
+    {
+      "name": "Kleine Speisen / Snacks",
+      "items": [
+        {"name": "Brezel", "price": "€2.50", "description": "Traditional German pretzel"},
+        {"name": "Flammkuchen", "price": "€8.50", "description": "Alsatian flatbread"},
+        {"name": "Käseplatte", "price": "€9.50", "description": "Cheese selection"},
+        {"name": "Oliven & Brot", "price": "€5.50", "description": "Marinated olives with bread"}
+      ]
+    }
+  ],
+  "note": "Menu items are representative of typical Berlin cafe-bar offerings. Contact venue for current menu and prices."
+}

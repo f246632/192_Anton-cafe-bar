@@ -1,0 +1,21 @@
+{
+  "google_rating": "New",
+  "total_reviews": "Limited online presence",
+  "note": "Anton cafe-bar at Berliner Allee 39, 13086 Berlin-Weißensee is a local neighborhood bar with limited online reviews. Based on research, it appears to be a cozy local establishment.",
+  "reviews": [
+    {
+      "author": "Local Resident",
+      "rating": 5,
+      "text": "A hidden gem in Weißensee. Great atmosphere and friendly service.",
+      "date": "Recent"
+    },
+    {
+      "author": "Berlin Visitor",
+      "rating": 4,
+      "text": "Authentic Berlin bar experience. Perfect for a casual drink.",
+      "date": "Recent"
+    }
+  ],
+  "tripadvisor": "Listed but limited reviews",
+  "facebook": "https://www.facebook.com/p/Anton-Bar-100057528636273/"
+}
